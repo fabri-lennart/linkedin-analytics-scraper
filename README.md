@@ -57,7 +57,12 @@ The script is intended to be executed inside a KNIME Python Script node.
 
 You can find a full demo and explanation in this video:
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4qg-EOIwD8s">
+    <img src="https://img.youtube.com/vi/4qg-EOIwD8s/hqdefault.jpg" alt="Watch the demo" width="70%">
+  </a>
+  <p><em>Click on the image to watch the full demo</em></p>
+</div>
 
 ---
 
